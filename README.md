@@ -1,11 +1,15 @@
 # SPCA Animal Shelter Database
-Project for Database Management Systems course, team 71
+Project for Database Management Systems course, Group 71
 
 Programming Environment
 --------------------------
-MySQL, HTML, CSS, JavaScript, PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- PHP
 
-Team Members:
+Group Members:
 --------------------------
 - Derek Huang
 - Jie Niu
