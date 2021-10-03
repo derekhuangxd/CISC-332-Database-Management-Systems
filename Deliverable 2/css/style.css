@@ -1,0 +1,96 @@
+*{
+	line-height: 1.4;
+}
+
+body{
+	font: 16px 'PT Serif', "serif", "sans-serif", "monospace";
+	margin: 10pt;
+}
+
+h1, h2, h3, h4, th{
+	font-family: 'Josefin Sans', "serif", "sans-serif", "monospace";
+	font-weight: bold;
+	text-shadow: 1px 1px rgba(0,0,0,0.15);
+/*	padding-top: 1em;
+	padding-bottom: 0.5em;*/
+}
+
+nav{
+	font-family: 'Josefin Sans', "serif", "sans-serif", "monospace";
+	font-weight: bold;
+	text-shadow: 1px 1px rgba(0,0,0,0.15);
+	text-align: center;
+}
+
+h1{
+	font-size: 32px;
+	text-align: center;
+}
+
+h2{
+	font-size: 28px;
+	text-align: center;
+}
+
+
+ol, ul{
+	padding-top: 8px;
+	padding-bottom: 16px;
+	padding-left: 32px;
+}
+
+img{
+	display: block;
+	/*center:*/
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+nav ul{
+	font-weight: bold;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+nav ul li a{
+	border-top: 1px solid white;
+	color: white;
+	text-decoration: none;
+	display: block;
+	padding: 15px 20px 15px 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav ul li a:hover{
+	background-color: white;
+	transition: 0.5s;
+	color: black;
+}
+
+
+footer{
+	padding: 20px;
+	background-color: black;
+}
+
+header{
+	background-color: black;
+}
+
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px 10px;
+  border: 1px solid black;
+  min-width: 40px;
+}
+
+th {
+  background-color: #f1f1f1;
+}
